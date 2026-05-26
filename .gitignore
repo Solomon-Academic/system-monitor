@@ -1,0 +1,36 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.iml
+
+# Build artifacts
+target/
+build/
+dist/
+*.class
+*.jar
+
+# Database
+*.db
+*.db-journal
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+.project
+.classpath
+.settings/
+
+# Maven
+.m2/
+
+# Runtime
+*.tmp
+*.temp
